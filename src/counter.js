@@ -17,6 +17,7 @@ export default function Counter() {
       <button onClick={AddValue}> Add </button>
       <br></br>
       <button onClick={RemoveValue}> Remove </button>
+      <p>Counter</p>
     </>
    )
 }
